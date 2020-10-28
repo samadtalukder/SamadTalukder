@@ -1,6 +1,11 @@
 ### Hi there 👋
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=samadtalukder)](https://github.com/samadtalukder/SamadTalukder)
 
+
+📊 **This week I spent my time on**
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=samadtalukder&hide_title=true&hide_border=false&langs_count=5)
+
 <!--
 **samadtalukder/SamadTalukder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
