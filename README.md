@@ -5,7 +5,7 @@ I like to create things that are useful for people (doesn't always end that way)
 - I’m currently working on Android Kotlin
 - Codes often, mostly unfinished side projects.
 - Improves and help with other people's projects
-- I work at an Bangladeshi App Development Company as an Android Developer.
+- I work at Bangladeshi App Development Company as an Android Developer.
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=samadtalukder)](https://github.com/samadtalukder/SamadTalukder)
