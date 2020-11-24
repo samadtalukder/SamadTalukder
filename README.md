@@ -1,20 +1,14 @@
-### Hi there, I'm  [Samad Talukder][website] 👋
+### $_ I'm [Samad Talukder][website]
+
+I like to create things that are useful for people (doesn't always end that way).
+
+- I’m currently working on Android Kotlin
+- Codes often, mostly unfinished side projects.
+- Improves and help with other people's projects
+- I work at an Bangladeshi App Development Company as an Android Developer.
+
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=samadtalukder)](https://github.com/samadtalukder/SamadTalukder)
-
-<!--
-📊 **This week I spent my time on**
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=samadtalukder&hide_title=true&hide_border=false&langs_count=5)
--->
-
-
-
-<!--
-**samadtalukder/SamadTalukder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-- 🔭 I’m currently working on Android Kotlin
-- 🌱 I’m currently learning Kotlin
-- 👯 I’m looking to collaborate on Open Source Project
 
 
 ### Connect with me:
@@ -28,7 +22,6 @@
 
 
 [website]: https://about.me/samadtalukdar
-[twitter]: https://twitter.com/codeSTACKr
 [facebook]: https://www.facebook.com/samad.talukder.94/
 [instagram]: https://www.instagram.com/samad_talukder/
 [linkedin]: https://www.linkedin.com/in/samadtalukder/
