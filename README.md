@@ -1,4 +1,5 @@
-<h2 align="center">Hi 👋, I'm Samad Talukder</h2>
+<img src="https://miro.medium.com/max/3200/0*fdcgLkFi3GdmNpWY">
+<h2 align="center">Hey there👋, I'm Samad Talukder 👨‍💻.</h2>
 <h3 align="center">Mobile app developer</h3>
 
 
