@@ -3,10 +3,8 @@
 <h3 align="center">Mobile app developer</h3>
 
 
-- I’m currently working with Kotlin, Java, Dart etc
-- I’m currently learning Flutter Development
-- Most of my projects are available on [Github](https://github.com/samadtalukder).
-- Ask me about anything [here](https://github.com/samadtalukder/SamadTalukder/issues/)! I am happy to help.
+- 🔭 I’m currently working on Kotlin for Android and Flutter for Cross-platform,
+- 💬 Ask me about #Flutter #Android #Kotlin #Java
 - Codes often, mostly unfinished side projects.
 - Improves and help with other people's projects
 - How to reach me: samadtalukdar6@gmail.com.
